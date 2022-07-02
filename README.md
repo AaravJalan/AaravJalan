@@ -1,4 +1,5 @@
 <p>
+<img alt="VS Code" src=https://img.shields.io/badge/-0078d7.svg?style=for-the-flat&logo=visual-studio-code&logoColor=white/>
 <!-- <img src="https://img.shields.io/badge/Mac OS-black.svg?&style=for-the-flat&logo=macos&logoColor=white" /> -->
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-flat" />
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-flat" />
